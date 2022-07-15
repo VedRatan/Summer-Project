@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "749634237212",
+    "project_id": "summer-project-a23a3",
+    "storage_bucket": "summer-project-a23a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:749634237212:android:a274ac41426fe3e27780d9",
+        "android_client_info": {
+          "package_name": "com.example.hms_iiitm_gwalior"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "749634237212-e23i858601prstnobscntj2nphhk1c1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hms_iiitm_gwalior",
+            "certificate_hash": "fa255cdf0f6bdad1c6ef61ebca4c30322f0086ef"
+          }
+        },
+        {
+          "client_id": "749634237212-r2c3ipgu508dngr05salk80mf48s6h5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUSFUTq8pius1DaIo5lrsscnFAVZw8j9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "749634237212-r2c3ipgu508dngr05salk80mf48s6h5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
